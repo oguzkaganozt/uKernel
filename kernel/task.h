@@ -2,7 +2,6 @@
 #ifndef TASK_H_INCLUDED
 #define TASK_H_INCLUDED
 
-#include "compiler.h"
 
 
 #ifdef __cplusplus

@@ -1,2 +1,2 @@
 # uKernel
-Simple Co-operative micro kernel 
+Simple and Co-operative micro kernel 
